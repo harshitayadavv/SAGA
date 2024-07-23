@@ -17,7 +17,6 @@ Responsive Design: Works well on both desktop and mobile devices.
 
 
 Technologies Used:
-
 HTML: For the structure of the web pages.
 CSS: For styling and layout.
 JavaScript: For dynamic interactions and API integration.
